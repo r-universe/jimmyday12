@@ -10,7 +10,7 @@
 	registered = true
 [submodule "monashtipr"]
 	path = monashtipr
-	url = https://github.com/jimmyday12/monash_tipr
+	url = https://github.com/jimmyday12/monashtipr
 	shallow = true
 	registered = true
 [submodule "elo"]
