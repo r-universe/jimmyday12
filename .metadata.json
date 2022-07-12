@@ -2,9 +2,5 @@
   {
     "package": "fitzRoy",
     "oncran": true
-  },
-  {
-    "package": "monashtipr",
-    "oncran": true
   }
 ]
