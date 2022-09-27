@@ -13,8 +13,3 @@
 	url = https://github.com/jimmyday12/monashtipr
 	shallow = true
 	registered = true
-[submodule "elo"]
-	path = elo
-	url = https://github.com/eheinzen/elo
-	shallow = true
-	registered = false
